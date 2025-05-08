@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @IjazShah182
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m @IjazShah
+Data Engineer | ETL Specialist | Cloud Data Architect
 
-<!---
-IjazShah182/IjazShah182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Areas of Interest
+
+Big Data Engineering with Spark & Hadoop
+
+ETL Pipelines & Data Warehousing
+
+Cloud Platforms (AWS, Azure, GCP)
+
+Python & SQL for Data Processing
+
+Apache Airflow & Workflow Orchestration
+
+Data Modeling & Optimization
+
+Currently Learning
+
+Real-time Data Streaming (Kafka, Flink)
+
+dbt & DataOps best practices
+
+Lakehouse Architecture (Delta Lake, Iceberg)
+
+Advanced Data Security & Governance
+
+Looking to Collaborate On
+
+Scalable data infrastructure projects
+
+Cloud-native ETL/ELT pipelines
+
+Open-source data engineering tools
+
+Contact
+
+Email: ferenghe182@gmail.com
