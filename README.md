@@ -1,38 +1,37 @@
-Hi, I’m @IjazShah
-Data Engineer | ETL Specialist | Cloud Data Architect
+### Hi, I’m @Ijaz Shah
 
-Areas of Interest
+**Data Engineer | ETL Specialist | Cloud Data Architect**
 
-Big Data Engineering with Spark & Hadoop
+---
 
-ETL Pipelines & Data Warehousing
+**Areas of Interest**
 
-Cloud Platforms (AWS, Azure, GCP)
+* Big Data Engineering with Spark & Hadoop
+* ETL Pipelines & Data Warehousing
+* Cloud Platforms (AWS, Azure, GCP)
+* Python & SQL for Data Processing
+* Apache Airflow & Workflow Orchestration
+* Data Modeling & Optimization
 
-Python & SQL for Data Processing
+---
 
-Apache Airflow & Workflow Orchestration
+**Currently Learning**
 
-Data Modeling & Optimization
+* Real-time Data Streaming (Kafka, Flink)
+* dbt & DataOps best practices
+* Lakehouse Architecture (Delta Lake, Iceberg)
+* Advanced Data Security & Governance
 
-Currently Learning
+---
 
-Real-time Data Streaming (Kafka, Flink)
+**Looking to Collaborate On**
 
-dbt & DataOps best practices
+* Scalable data infrastructure projects
+* Cloud-native ETL/ELT pipelines
+* Open-source data engineering tools
 
-Lakehouse Architecture (Delta Lake, Iceberg)
+---
 
-Advanced Data Security & Governance
+**Contact**
 
-Looking to Collaborate On
-
-Scalable data infrastructure projects
-
-Cloud-native ETL/ELT pipelines
-
-Open-source data engineering tools
-
-Contact
-
-Email: ferenghe182@gmail.com
+* Email: [ferenghe182@gmail.com](mailto:ferenghe182@gmail.com)
